@@ -162,7 +162,7 @@ input.sheet-demonsheet:checked ~ .sheet-background-image::after {
 }
 
 input.sheet-beastsheet:checked ~ .sheet-background-image::after {
-    background: url('https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/New%20World%20of%20Darkness%20Official/IYYhFQo.jpg');
+    background: url('https://raw.githubusercontent.com/dev824804/Beast-Primordial/master/beastBackground.jpg');
     background-size: 100% 100%;
 }
 
